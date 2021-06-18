@@ -1,0 +1,26 @@
+_repo: Pimpernel-and-Rosemary_65591
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2021-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pimpernel and Rosemary
+url: http://www.gutenberg.org/ebooks/65591
